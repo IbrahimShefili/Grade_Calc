@@ -1,4 +1,4 @@
-#Grade calculation
+#Grade Calculator
 file = open('note.txt','r',encoding='utf-8')
 for i in file:
     note1 = i.split(',')[1]
